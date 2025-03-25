@@ -1,3 +1,4 @@
 ﻿on branch develop making some changes
 adding  a new featue for the first branch
 adding a new feature named robot
+add line for commit 2 in feature robot
